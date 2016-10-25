@@ -4,3 +4,9 @@ D:\Joao\Ambiente de trabalho\Escola\InterS\Projeto\ProjetoInterS201617eNutre\eNu
 D:\Joao\Ambiente de trabalho\Escola\InterS\Projeto\ProjetoInterS201617eNutre\eNutre\excelLIb\obj\Debug\excelLIb.csproj.ResolveComReference.cache
 D:\Joao\Ambiente de trabalho\Escola\InterS\Projeto\ProjetoInterS201617eNutre\eNutre\excelLIb\obj\Debug\excelLIb.dll
 D:\Joao\Ambiente de trabalho\Escola\InterS\Projeto\ProjetoInterS201617eNutre\eNutre\excelLIb\obj\Debug\excelLIb.pdb
+C:\Users\AndreCosta\Documents\Visual Studio 2015\Projects\InterS\Projeto\1Entrega\Implementacao\eNutre\eNutre\excelLIb\bin\Debug\excelLIb.dll
+C:\Users\AndreCosta\Documents\Visual Studio 2015\Projects\InterS\Projeto\1Entrega\Implementacao\eNutre\eNutre\excelLIb\bin\Debug\excelLIb.pdb
+C:\Users\AndreCosta\Documents\Visual Studio 2015\Projects\InterS\Projeto\1Entrega\Implementacao\eNutre\eNutre\excelLIb\obj\Debug\excelLib.csprojResolveAssemblyReference.cache
+C:\Users\AndreCosta\Documents\Visual Studio 2015\Projects\InterS\Projeto\1Entrega\Implementacao\eNutre\eNutre\excelLIb\obj\Debug\excelLib.csproj.ResolveComReference.cache
+C:\Users\AndreCosta\Documents\Visual Studio 2015\Projects\InterS\Projeto\1Entrega\Implementacao\eNutre\eNutre\excelLIb\obj\Debug\excelLIb.dll
+C:\Users\AndreCosta\Documents\Visual Studio 2015\Projects\InterS\Projeto\1Entrega\Implementacao\eNutre\eNutre\excelLIb\obj\Debug\excelLIb.pdb

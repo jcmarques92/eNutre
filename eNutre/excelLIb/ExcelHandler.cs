@@ -21,17 +21,17 @@ namespace excelLIb
                 XmlDeclaration dec = doc.CreateXmlDeclaration("1.0", null, null);
                 doc.AppendChild(dec);
                 // Create the root element
-                XmlElement root = doc.CreateElement("eNutre");
-                doc.AppendChild(root);
+                XmlElement eNutre = doc.CreateElement("eNutre");
+                doc.AppendChild(eNutre);
                 XmlElement restaurantes = doc.CreateElement("restaurantes");
-                root.AppendChild(restaurantes);
+                eNutre.AppendChild(restaurantes);
 
                 Excel.Application excelApplication = new Excel.Application();
                 excelApplication.Visible = false;
                 Excel.Workbook excelWorkBook = excelApplication.Workbooks.Open(path);
                 Excel.Worksheet excelWorkSheet = excelWorkBook.Worksheets.get_Item(1);
 
-                string result;
+                //string result;
 
                 for (int i = 2; i < 125; i++)
                 {
@@ -40,7 +40,7 @@ namespace excelLIb
                     XmlElement quantidade = doc.CreateElement("quantidade");
                     XmlElement calorias = doc.CreateElement("calorias");
 
-                    restaurante.SetAttribute("id", Convert.ToString(excelWorkSheet.Cells[i, 1].Value));
+                    restaurante.SetAttribute("nome", Convert.ToString(excelWorkSheet.Cells[i, 1].Value));
                     item.InnerText = Convert.ToString(excelWorkSheet.Cells[i, 2].Value);
                     quantidade.InnerText = Convert.ToString(excelWorkSheet.Cells[i, 3].Value);
                     calorias.InnerText = Convert.ToString(excelWorkSheet.Cells[i, 4].Value);
@@ -52,7 +52,7 @@ namespace excelLIb
                 }
                 excelWorkBook.Close();
                 excelApplication.Quit();
-                doc.Save(@"calorias.xml");
+                doc.Save(@"restaurante-calorias.xml");
             }
             catch (Exception ex)
             {

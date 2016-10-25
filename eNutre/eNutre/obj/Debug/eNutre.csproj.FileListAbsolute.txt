@@ -31,3 +31,15 @@ D:\Joao\Ambiente de trabalho\ProjetoInterS201617eNutre\eNutre\eNutre\bin\Debug\e
 D:\Joao\Ambiente de trabalho\ProjetoInterS201617eNutre\eNutre\eNutre\obj\Debug\eNutre.csproj.ResolveComReference.cache
 D:\Joao\Ambiente de trabalho\ProjetoInterS201617eNutre\eNutre\eNutre\obj\Debug\eNutre.exe
 D:\Joao\Ambiente de trabalho\ProjetoInterS201617eNutre\eNutre\eNutre\obj\Debug\eNutre.pdb
+C:\Users\AndreCosta\Documents\Visual Studio 2015\Projects\InterS\Projeto\1Entrega\Implementacao\eNutre\eNutre\eNutre\bin\Debug\eNutre.exe.config
+C:\Users\AndreCosta\Documents\Visual Studio 2015\Projects\InterS\Projeto\1Entrega\Implementacao\eNutre\eNutre\eNutre\obj\Debug\eNutre.csproj.ResolveComReference.cache
+C:\Users\AndreCosta\Documents\Visual Studio 2015\Projects\InterS\Projeto\1Entrega\Implementacao\eNutre\eNutre\eNutre\obj\Debug\eNutre.exe
+C:\Users\AndreCosta\Documents\Visual Studio 2015\Projects\InterS\Projeto\1Entrega\Implementacao\eNutre\eNutre\eNutre\obj\Debug\eNutre.pdb
+C:\Users\AndreCosta\Documents\Visual Studio 2015\Projects\InterS\Projeto\1Entrega\Implementacao\eNutre\eNutre\eNutre\bin\Debug\eNutre.exe
+C:\Users\AndreCosta\Documents\Visual Studio 2015\Projects\InterS\Projeto\1Entrega\Implementacao\eNutre\eNutre\eNutre\bin\Debug\eNutre.pdb
+C:\Users\AndreCosta\Documents\Visual Studio 2015\Projects\InterS\Projeto\1Entrega\Implementacao\eNutre\eNutre\eNutre\bin\Debug\excelLIb.dll
+C:\Users\AndreCosta\Documents\Visual Studio 2015\Projects\InterS\Projeto\1Entrega\Implementacao\eNutre\eNutre\eNutre\bin\Debug\excelLIb.pdb
+C:\Users\AndreCosta\Documents\Visual Studio 2015\Projects\InterS\Projeto\1Entrega\Implementacao\eNutre\eNutre\eNutre\obj\Debug\eNutre.csprojResolveAssemblyReference.cache
+C:\Users\AndreCosta\Documents\Visual Studio 2015\Projects\InterS\Projeto\1Entrega\Implementacao\eNutre\eNutre\eNutre\obj\Debug\eNutre.Form1.resources
+C:\Users\AndreCosta\Documents\Visual Studio 2015\Projects\InterS\Projeto\1Entrega\Implementacao\eNutre\eNutre\eNutre\obj\Debug\eNutre.Properties.Resources.resources
+C:\Users\AndreCosta\Documents\Visual Studio 2015\Projects\InterS\Projeto\1Entrega\Implementacao\eNutre\eNutre\eNutre\obj\Debug\eNutre.csproj.GenerateResource.Cache

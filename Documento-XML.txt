@@ -1,0 +1,85 @@
+<enutre>
+ <restaurantes>
+  
+  <restaurante nome="H3">
+   <item>HAMBÚRGUER BEM PASSADO</item>
+   <quantidade>1 DOSE (200G)</quantidade>
+   <calorias>304 KCAL</calorias>
+  </restaurante>
+	
+  <restaurante nome="MCDONALDS">
+   <item>Batatas Fritas (Média)</item>
+   <quantidade>1 DOSE (100G)</quantidade>
+   <calorias>304 KCAL</calorias>
+  </restaurante>
+
+  <restaurante nome="BURGER-KING">
+   <item>Whopper</item>
+   <quantidade>1 DOSE(273G)</quantidade>
+   <calorias>633 KCAL</calorias>
+  </restaurante>
+
+
+  <restaurante nome="BURGER-RANCH">
+   <item>BATATAS FRITAS (PEQUENA)</item>
+   <quantidade>1 DOSE</quantidade>
+   <calorias>285 KCAL</calorias>
+  </restaurante>
+
+  <restaurante nome="KFC">
+   <item>PEDAÇO DE FRANGO</item>
+   <quantidade>1 PEDAÇO (93G)</quantidade>
+   <calorias>197 KCAL</calorias>
+  </restaurante>
+
+  <restaurante nome="NOORI">
+   <item>BOX SALMAO</item>
+   <quantidade>1 BOX (2 UNIDADES)</quantidade>
+   <calorias>167 KCAL</calorias>
+  </restaurante>
+  
+  <restaurante nome="PANS-AMP-COMPANY">
+   <item>PASTA DE ATUM</item>
+   <quantidade>1 SANDES (260G)</quantidade>
+   <calorias>779 KCAL</calorias>
+  </restaurante>
+
+  <restaurante nome="PIZZA-HUT">
+   <item>CHEESEHASM</item>
+   <quantidade>1 FATIA (130G)</quantidade>
+   <calorias>342 KCAL</calorias>
+  </restaurante>
+
+
+  <restaurante nome="STARBUCKS">
+   <item>SALADA DE FRUTAS</item>
+   <quantidade>100G</quantidade>
+   <calorias>53 KCAL</calorias>
+  </restaurante>
+
+  <restaurante nome="SUBWAY">
+   <item>15 CM FRANGO TERIYAKI</item>
+   <quantidade>1 DOSE (279G)</quantidade>
+   <calorias>384 KCAL</calorias>
+  </restaurante>
+
+  <restaurante nome="TELEPIZZA">
+   <item>PIZZA CARBONARA</item>
+   <quantidade>1 FATIA (76G)</quantidade>
+   <calorias>235 KCAL</calorias>
+  </restaurante>
+
+  <restaurante nome="VITAMINAS">
+   <item>MOLHO DE IOGURTE</item>
+   <quantidade>1/2 CONCHA DE SOPA (150ML)</quantidade>
+   <calorias>217 KCAL</calorias>
+  </restaurante>
+
+  <restaurante nome="WOK-TO-WALK">
+   <item>LEGUMES MISTOS</item>
+   <quantidade>1 DOSE (200G)</quantidade>
+   <calorias>190 KCAL</calorias>
+  </restaurante>
+
+ </restaurantes>
+</enutre>
