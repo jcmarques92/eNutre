@@ -1,0 +1,6 @@
+D:\Joao\Ambiente de trabalho\Escola\InterS\Projeto\ProjetoInterS201617eNutre\eNutre\excelLIb\bin\Debug\excelLIb.dll
+D:\Joao\Ambiente de trabalho\Escola\InterS\Projeto\ProjetoInterS201617eNutre\eNutre\excelLIb\bin\Debug\excelLIb.pdb
+D:\Joao\Ambiente de trabalho\Escola\InterS\Projeto\ProjetoInterS201617eNutre\eNutre\excelLIb\obj\Debug\excelLIb.csprojResolveAssemblyReference.cache
+D:\Joao\Ambiente de trabalho\Escola\InterS\Projeto\ProjetoInterS201617eNutre\eNutre\excelLIb\obj\Debug\excelLIb.csproj.ResolveComReference.cache
+D:\Joao\Ambiente de trabalho\Escola\InterS\Projeto\ProjetoInterS201617eNutre\eNutre\excelLIb\obj\Debug\excelLIb.dll
+D:\Joao\Ambiente de trabalho\Escola\InterS\Projeto\ProjetoInterS201617eNutre\eNutre\excelLIb\obj\Debug\excelLIb.pdb
