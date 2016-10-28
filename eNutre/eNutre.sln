@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eNutre", "eNutre\eNutre.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "excelLib", "excelLIb\excelLib.csproj", "{4F415A70-0F7D-419C-B77B-E32DD87F9FD7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "txtLib", "txtLib\txtLib.csproj", "{64A21B17-3EC7-4724-84B3-6A211B626964}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jsonLib", "jsonLib\jsonLib.csproj", "{F9E1C1EC-475C-45DF-936B-919B572284F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{4F415A70-0F7D-419C-B77B-E32DD87F9FD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F415A70-0F7D-419C-B77B-E32DD87F9FD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F415A70-0F7D-419C-B77B-E32DD87F9FD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64A21B17-3EC7-4724-84B3-6A211B626964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64A21B17-3EC7-4724-84B3-6A211B626964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64A21B17-3EC7-4724-84B3-6A211B626964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64A21B17-3EC7-4724-84B3-6A211B626964}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9E1C1EC-475C-45DF-936B-919B572284F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9E1C1EC-475C-45DF-936B-919B572284F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9E1C1EC-475C-45DF-936B-919B572284F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9E1C1EC-475C-45DF-936B-919B572284F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

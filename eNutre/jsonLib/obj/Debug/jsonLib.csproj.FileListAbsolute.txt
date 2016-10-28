@@ -1,0 +1,5 @@
+D:\Joao\Ambiente de trabalho\Escola\InterS\Projeto\eNutre\eNutre\jsonLib\bin\Debug\jsonLib.dll
+D:\Joao\Ambiente de trabalho\Escola\InterS\Projeto\eNutre\eNutre\jsonLib\bin\Debug\jsonLib.pdb
+D:\Joao\Ambiente de trabalho\Escola\InterS\Projeto\eNutre\eNutre\jsonLib\obj\Debug\jsonLib.csprojResolveAssemblyReference.cache
+D:\Joao\Ambiente de trabalho\Escola\InterS\Projeto\eNutre\eNutre\jsonLib\obj\Debug\jsonLib.dll
+D:\Joao\Ambiente de trabalho\Escola\InterS\Projeto\eNutre\eNutre\jsonLib\obj\Debug\jsonLib.pdb

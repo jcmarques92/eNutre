@@ -1,0 +1,887 @@
+<root type="array">
+  <item type="object">
+    <Nome type="string">Dormir</Nome>
+    <Calorias type="number">66</Calorias>
+    <Met type="number">0.9</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Descansar</Nome>
+    <Calorias type="number">74</Calorias>
+    <Met type="number">1.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Estar Sentado</Nome>
+    <Calorias type="number">103</Calorias>
+    <Met type="number">1.4</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Trabalho de Escritório</Nome>
+    <Calorias type="number">110</Calorias>
+    <Met type="number">1.5</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Conduzir</Nome>
+    <Calorias type="number">118</Calorias>
+    <Met type="number">1.6</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Massagem</Nome>
+    <Calorias type="number">147</Calorias>
+    <Met type="number">2.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Tocar um Instrumento Musical</Nome>
+    <Calorias type="number">147</Calorias>
+    <Met type="number">2.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Spa</Nome>
+    <Calorias type="number">147</Calorias>
+    <Met type="number">2.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Estudar</Nome>
+    <Calorias type="number">147</Calorias>
+    <Met type="number">2.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Golfe (de Carrinho)</Nome>
+    <Calorias type="number">147</Calorias>
+    <Met type="number">2.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Trabalho</Nome>
+    <Calorias type="number">147</Calorias>
+    <Met type="number">2.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Tomando Banho</Nome>
+    <Calorias type="number">147</Calorias>
+    <Met type="number">2.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Karaoke</Nome>
+    <Calorias type="number">147</Calorias>
+    <Met type="number">2.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Leitura</Nome>
+    <Calorias type="number">147</Calorias>
+    <Met type="number">2.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Caminhar (Lento) - 3/kph</Nome>
+    <Calorias type="number">147</Calorias>
+    <Met type="number">2.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Cantar</Nome>
+    <Calorias type="number">147</Calorias>
+    <Met type="number">2.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Assistir TV</Nome>
+    <Calorias type="number">147</Calorias>
+    <Met type="number">2.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">em Pé</Nome>
+    <Calorias type="number">147</Calorias>
+    <Met type="number">2.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Amamentar</Nome>
+    <Calorias type="number">147</Calorias>
+    <Met type="number">2.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Chuveiro</Nome>
+    <Calorias type="number">147</Calorias>
+    <Met type="number">2.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Ensino</Nome>
+    <Calorias type="number">147</Calorias>
+    <Met type="number">2.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Cozinhar</Nome>
+    <Calorias type="number">147</Calorias>
+    <Met type="number">2.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Costura</Nome>
+    <Calorias type="number">147</Calorias>
+    <Met type="number">2.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Ir às Compras</Nome>
+    <Calorias type="number">169</Calorias>
+    <Met type="number">2.3</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Trabalho Doméstico</Nome>
+    <Calorias type="number">184</Calorias>
+    <Met type="number">2.5</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Alongar (Yoga)</Nome>
+    <Calorias type="number">184</Calorias>
+    <Met type="number">2.5</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Lavar Loiça</Nome>
+    <Calorias type="number">220</Calorias>
+    <Met type="number">3.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Yoga</Nome>
+    <Calorias type="number">220</Calorias>
+    <Met type="number">3.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Compras de Supermercado</Nome>
+    <Calorias type="number">220</Calorias>
+    <Met type="number">3.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Lavar Roupa</Nome>
+    <Calorias type="number">220</Calorias>
+    <Met type="number">3.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Sauna</Nome>
+    <Calorias type="number">220</Calorias>
+    <Met type="number">3.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Scooter</Nome>
+    <Calorias type="number">220</Calorias>
+    <Met type="number">3.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Motociclistas</Nome>
+    <Calorias type="number">220</Calorias>
+    <Met type="number">3.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Passar a Ferro</Nome>
+    <Calorias type="number">220</Calorias>
+    <Met type="number">3.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Pescar</Nome>
+    <Calorias type="number">220</Calorias>
+    <Met type="number">3.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Limpeza</Nome>
+    <Calorias type="number">220</Calorias>
+    <Met type="number">3.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Reparação</Nome>
+    <Calorias type="number">220</Calorias>
+    <Met type="number">3.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Surf</Nome>
+    <Calorias type="number">220</Calorias>
+    <Met type="number">3.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Velejar</Nome>
+    <Calorias type="number">220</Calorias>
+    <Met type="number">3.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Wii Fit</Nome>
+    <Calorias type="number">220</Calorias>
+    <Met type="number">3.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Andar de Barco ou Canoagem</Nome>
+    <Calorias type="number">220</Calorias>
+    <Met type="number">3.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Aspiração</Nome>
+    <Calorias type="number">220</Calorias>
+    <Met type="number">3.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Lavagem de Carro</Nome>
+    <Calorias type="number">220</Calorias>
+    <Met type="number">3.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Pilates</Nome>
+    <Calorias type="number">228</Calorias>
+    <Met type="number">3.1</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Caminhar (Moderado) - 5/kph</Nome>
+    <Calorias type="number">243</Calorias>
+    <Met type="number">3.3</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Ginástica (Leve, p.e. Exercícios em Casa)</Nome>
+    <Calorias type="number">257</Calorias>
+    <Met type="number">3.5</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Caminhar (Rápido) - 5,5/kph</Nome>
+    <Calorias type="number">279</Calorias>
+    <Met type="number">3.8</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Andar a Cavalo</Nome>
+    <Calorias type="number">294</Calorias>
+    <Met type="number">4.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Jardinagem</Nome>
+    <Calorias type="number">294</Calorias>
+    <Met type="number">4.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Ténis de Mesa</Nome>
+    <Calorias type="number">294</Calorias>
+    <Met type="number">4.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Golfe (a Pé)</Nome>
+    <Calorias type="number">294</Calorias>
+    <Met type="number">4.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Voleibol</Nome>
+    <Calorias type="number">294</Calorias>
+    <Met type="number">4.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Nadar (Lento)</Nome>
+    <Calorias type="number">294</Calorias>
+    <Met type="number">4.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Tiro com Arco</Nome>
+    <Calorias type="number">294</Calorias>
+    <Met type="number">4.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Varrer</Nome>
+    <Calorias type="number">294</Calorias>
+    <Met type="number">4.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Motor-Cross</Nome>
+    <Calorias type="number">294</Calorias>
+    <Met type="number">4.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Bowling</Nome>
+    <Calorias type="number">294</Calorias>
+    <Met type="number">4.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Dançar (Passo Lento)</Nome>
+    <Calorias type="number">294</Calorias>
+    <Met type="number">4.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Correr na Água</Nome>
+    <Calorias type="number">294</Calorias>
+    <Met type="number">4.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Bikram Yoga</Nome>
+    <Calorias type="number">294</Calorias>
+    <Met type="number">4.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Ciclismo (Passeio) - &lt;16/kph</Nome>
+    <Calorias type="number">294</Calorias>
+    <Met type="number">4.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Trabalhos Pesados</Nome>
+    <Calorias type="number">368</Calorias>
+    <Met type="number">5.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Caminhar (Rápido) - 6,5/kph</Nome>
+    <Calorias type="number">368</Calorias>
+    <Met type="number">5.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Pintura</Nome>
+    <Calorias type="number">368</Calorias>
+    <Met type="number">5.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Roçada do Gramado</Nome>
+    <Calorias type="number">368</Calorias>
+    <Met type="number">5.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Caiaque</Nome>
+    <Calorias type="number">368</Calorias>
+    <Met type="number">5.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Softball</Nome>
+    <Calorias type="number">368</Calorias>
+    <Met type="number">5.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Skating - 16/kph</Nome>
+    <Calorias type="number">368</Calorias>
+    <Met type="number">5.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Badminton</Nome>
+    <Calorias type="number">368</Calorias>
+    <Met type="number">5.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Hula Hoop</Nome>
+    <Calorias type="number">368</Calorias>
+    <Met type="number">5.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Dançar (Dança Popular)</Nome>
+    <Calorias type="number">368</Calorias>
+    <Met type="number">5.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Cricket</Nome>
+    <Calorias type="number">368</Calorias>
+    <Met type="number">5.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Caçar</Nome>
+    <Calorias type="number">368</Calorias>
+    <Met type="number">5.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Baseball</Nome>
+    <Calorias type="number">368</Calorias>
+    <Met type="number">5.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Exercícios de Manutenção (Health Club ou Ginásio) </Nome>
+    <Calorias type="number">404</Calorias>
+    <Met type="number">5.5</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Treino em Circuito</Nome>
+    <Calorias type="number">441</Calorias>
+    <Met type="number">6.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Basquetebol</Nome>
+    <Calorias type="number">441</Calorias>
+    <Met type="number">6.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Arvorismo</Nome>
+    <Calorias type="number">441</Calorias>
+    <Met type="number">6.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Esqui Aquático</Nome>
+    <Calorias type="number">441</Calorias>
+    <Met type="number">6.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Jump</Nome>
+    <Calorias type="number">441</Calorias>
+    <Met type="number">6.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Máquina de Exercício (Lento)</Nome>
+    <Calorias type="number">441</Calorias>
+    <Met type="number">6.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Mergulho</Nome>
+    <Calorias type="number">441</Calorias>
+    <Met type="number">6.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Floorball</Nome>
+    <Calorias type="number">441</Calorias>
+    <Met type="number">6.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Gym (Ginásio)</Nome>
+    <Calorias type="number">441</Calorias>
+    <Met type="number">6.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Dançar (Passo Rápido, Aeróbio)</Nome>
+    <Calorias type="number">441</Calorias>
+    <Met type="number">6.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Ciclismo (Lento) - 18/kph</Nome>
+    <Calorias type="number">441</Calorias>
+    <Met type="number">6.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Caminhada</Nome>
+    <Calorias type="number">441</Calorias>
+    <Met type="number">6.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Pole dance</Nome>
+    <Calorias type="number">441</Calorias>
+    <Met type="number">6.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Power Walking</Nome>
+    <Calorias type="number">441</Calorias>
+    <Met type="number">6.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Musculação (Moderado)</Nome>
+    <Calorias type="number">441</Calorias>
+    <Met type="number">6.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Netball</Nome>
+    <Calorias type="number">441</Calorias>
+    <Met type="number">6.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Pá de Neve</Nome>
+    <Calorias type="number">441</Calorias>
+    <Met type="number">6.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Crossfit</Nome>
+    <Calorias type="number">514</Calorias>
+    <Met type="number">7.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Cross Training</Nome>
+    <Calorias type="number">514</Calorias>
+    <Met type="number">7.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">CX</Nome>
+    <Calorias type="number">514</Calorias>
+    <Met type="number">7.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Curves</Nome>
+    <Calorias type="number">514</Calorias>
+    <Met type="number">7.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Pedalar</Nome>
+    <Calorias type="number">514</Calorias>
+    <Met type="number">7.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">RPM</Nome>
+    <Calorias type="number">514</Calorias>
+    <Met type="number">7.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Snowboard</Nome>
+    <Calorias type="number">514</Calorias>
+    <Met type="number">7.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Power Jump</Nome>
+    <Calorias type="number">514</Calorias>
+    <Met type="number">7.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Kangoo</Nome>
+    <Calorias type="number">514</Calorias>
+    <Met type="number">7.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">P90X</Nome>
+    <Calorias type="number">514</Calorias>
+    <Met type="number">7.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Insanity</Nome>
+    <Calorias type="number">514</Calorias>
+    <Met type="number">7.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Kickboxing</Nome>
+    <Calorias type="number">514</Calorias>
+    <Met type="number">7.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Judô</Nome>
+    <Calorias type="number">514</Calorias>
+    <Met type="number">7.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Jiu-jitsu</Nome>
+    <Calorias type="number">514</Calorias>
+    <Met type="number">7.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">HIIT</Nome>
+    <Calorias type="number">514</Calorias>
+    <Met type="number">7.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Fitness (Treino)</Nome>
+    <Calorias type="number">514</Calorias>
+    <Met type="number">7.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Nadar (Moderado)</Nome>
+    <Calorias type="number">514</Calorias>
+    <Met type="number">7.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">GRIT</Nome>
+    <Calorias type="number">514</Calorias>
+    <Met type="number">7.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Muay Thai</Nome>
+    <Calorias type="number">514</Calorias>
+    <Met type="number">7.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Cardio</Nome>
+    <Calorias type="number">514</Calorias>
+    <Met type="number">7.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">T25</Nome>
+    <Calorias type="number">514</Calorias>
+    <Met type="number">7.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Tae Bo</Nome>
+    <Calorias type="number">514</Calorias>
+    <Met type="number">7.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Aeróbica de Água</Nome>
+    <Calorias type="number">514</Calorias>
+    <Met type="number">7.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Body Attack</Nome>
+    <Calorias type="number">514</Calorias>
+    <Met type="number">7.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Ballet</Nome>
+    <Calorias type="number">514</Calorias>
+    <Met type="number">7.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">VTT</Nome>
+    <Calorias type="number">514</Calorias>
+    <Met type="number">7.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">TRX</Nome>
+    <Calorias type="number">514</Calorias>
+    <Met type="number">7.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">XCO</Nome>
+    <Calorias type="number">514</Calorias>
+    <Met type="number">7.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Taekwondo</Nome>
+    <Calorias type="number">514</Calorias>
+    <Met type="number">7.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Artes Marciais</Nome>
+    <Calorias type="number">514</Calorias>
+    <Met type="number">7.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Subir Escadas</Nome>
+    <Calorias type="number">514</Calorias>
+    <Met type="number">7.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Zumba</Nome>
+    <Calorias type="number">514</Calorias>
+    <Met type="number">7.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Caratê (Karaté)</Nome>
+    <Calorias type="number">514</Calorias>
+    <Met type="number">7.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Aeróbica</Nome>
+    <Calorias type="number">514</Calorias>
+    <Met type="number">7.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Body Balance</Nome>
+    <Calorias type="number">514</Calorias>
+    <Met type="number">7.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Body Combat</Nome>
+    <Calorias type="number">514</Calorias>
+    <Met type="number">7.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Body Pump</Nome>
+    <Calorias type="number">514</Calorias>
+    <Met type="number">7.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Lacrosse</Nome>
+    <Calorias type="number">588</Calorias>
+    <Met type="number">8.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Kettlebell</Nome>
+    <Calorias type="number">588</Calorias>
+    <Met type="number">8.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Abdominais</Nome>
+    <Calorias type="number">588</Calorias>
+    <Met type="number">8.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Remo</Nome>
+    <Calorias type="number">588</Calorias>
+    <Met type="number">8.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Máquina de Exercício (Moderado)</Nome>
+    <Calorias type="number">588</Calorias>
+    <Met type="number">8.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Plataforma Vibratória</Nome>
+    <Calorias type="number">588</Calorias>
+    <Met type="number">8.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Passadeira</Nome>
+    <Calorias type="number">588</Calorias>
+    <Met type="number">8.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Squash ou Andebol</Nome>
+    <Calorias type="number">588</Calorias>
+    <Met type="number">8.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Spinning</Nome>
+    <Calorias type="number">588</Calorias>
+    <Met type="number">8.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Pádel</Nome>
+    <Calorias type="number">588</Calorias>
+    <Met type="number">8.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Musculação</Nome>
+    <Calorias type="number">588</Calorias>
+    <Met type="number">8.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Ténis</Nome>
+    <Calorias type="number">588</Calorias>
+    <Met type="number">8.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Step</Nome>
+    <Calorias type="number">588</Calorias>
+    <Met type="number">8.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Nordic Walking</Nome>
+    <Calorias type="number">588</Calorias>
+    <Met type="number">8.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Agachamento</Nome>
+    <Calorias type="number">588</Calorias>
+    <Met type="number">8.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Ciclismo (Moderado) - 21/kph</Nome>
+    <Calorias type="number">588</Calorias>
+    <Met type="number">8.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Correr (Jogging) - 8/kph</Nome>
+    <Calorias type="number">588</Calorias>
+    <Met type="number">8.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Elíptica</Nome>
+    <Calorias type="number">588</Calorias>
+    <Met type="number">8.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Corrida</Nome>
+    <Calorias type="number">588</Calorias>
+    <Met type="number">8.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Bicicleta de Montanha (Mountain Bike)</Nome>
+    <Calorias type="number">588</Calorias>
+    <Met type="number">8.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Andebol (Handebol)</Nome>
+    <Calorias type="number">588</Calorias>
+    <Met type="number">8.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Air Climber</Nome>
+    <Calorias type="number">588</Calorias>
+    <Met type="number">8.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Aparelho de Musculação</Nome>
+    <Calorias type="number">588</Calorias>
+    <Met type="number">8.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Bicicleta (Cycling)</Nome>
+    <Calorias type="number">588</Calorias>
+    <Met type="number">8.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Arc Trainer</Nome>
+    <Calorias type="number">588</Calorias>
+    <Met type="number">8.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Endurance</Nome>
+    <Calorias type="number">588</Calorias>
+    <Met type="number">8.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Futebol Americano</Nome>
+    <Calorias type="number">588</Calorias>
+    <Met type="number">8.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Hóquei no Gelo</Nome>
+    <Calorias type="number">588</Calorias>
+    <Met type="number">8.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Hóquei</Nome>
+    <Calorias type="number">588</Calorias>
+    <Met type="number">8.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Ginástica (Pesada, p.e. Flexões)</Nome>
+    <Calorias type="number">588</Calorias>
+    <Met type="number">8.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Futebol</Nome>
+    <Calorias type="number">588</Calorias>
+    <Met type="number">8.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Jumping Jacks</Nome>
+    <Calorias type="number">588</Calorias>
+    <Met type="number">8.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Esqui (Downhill)</Nome>
+    <Calorias type="number">588</Calorias>
+    <Met type="number">8.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Escalada</Nome>
+    <Calorias type="number">588</Calorias>
+    <Met type="number">8.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Ciclismo (Rápido) - 24/kph</Nome>
+    <Calorias type="number">735</Calorias>
+    <Met type="number">10.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Máquina de Exercício (Rápido)</Nome>
+    <Calorias type="number">735</Calorias>
+    <Met type="number">10.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Andar de Patins</Nome>
+    <Calorias type="number">735</Calorias>
+    <Met type="number">10.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Nadar (Rápido)</Nome>
+    <Calorias type="number">735</Calorias>
+    <Met type="number">10.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Racquetball</Nome>
+    <Calorias type="number">735</Calorias>
+    <Met type="number">10.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Correr - 10/kph</Nome>
+    <Calorias type="number">735</Calorias>
+    <Met type="number">10.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Saltar à Corda</Nome>
+    <Calorias type="number">735</Calorias>
+    <Met type="number">10.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Correr - 11/kph</Nome>
+    <Calorias type="number">845</Calorias>
+    <Met type="number">11.5</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Esqui (Cross Country)</Nome>
+    <Calorias type="number">882</Calorias>
+    <Met type="number">12.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Ciclismo (Muito Rápido) - 28/kph</Nome>
+    <Calorias type="number">882</Calorias>
+    <Met type="number">12.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Boxe</Nome>
+    <Calorias type="number">882</Calorias>
+    <Met type="number">12.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Correr - 13/kph</Nome>
+    <Calorias type="number">992</Calorias>
+    <Met type="number">13.5</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Correr - 14,5/kph</Nome>
+    <Calorias type="number">1102</Calorias>
+    <Met type="number">15.0</Met>
+  </item>
+  <item type="object">
+    <Nome type="string">Correr - 16/kph</Nome>
+    <Calorias type="number">1176</Calorias>
+    <Met type="number">16.0</Met>
+  </item>
+</root>

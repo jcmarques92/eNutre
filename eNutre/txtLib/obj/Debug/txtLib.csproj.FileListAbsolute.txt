@@ -1,0 +1,5 @@
+D:\Joao\Ambiente de trabalho\Escola\InterS\Projeto\eNutre\eNutre\txtLib\bin\Debug\txtLib.dll
+D:\Joao\Ambiente de trabalho\Escola\InterS\Projeto\eNutre\eNutre\txtLib\bin\Debug\txtLib.pdb
+D:\Joao\Ambiente de trabalho\Escola\InterS\Projeto\eNutre\eNutre\txtLib\obj\Debug\txtLib.csprojResolveAssemblyReference.cache
+D:\Joao\Ambiente de trabalho\Escola\InterS\Projeto\eNutre\eNutre\txtLib\obj\Debug\txtLib.dll
+D:\Joao\Ambiente de trabalho\Escola\InterS\Projeto\eNutre\eNutre\txtLib\obj\Debug\txtLib.pdb

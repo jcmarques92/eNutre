@@ -113,6 +113,14 @@
       <Project>{4f415a70-0f7d-419c-b77b-e32dd87f9fd7}</Project>
       <Name>excelLib</Name>
     </ProjectReference>
+    <ProjectReference Include="..\jsonLib\jsonLib.csproj">
+      <Project>{f9e1c1ec-475c-45df-936b-919b572284f4}</Project>
+      <Name>jsonLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\txtLib\txtLib.csproj">
+      <Project>{64a21b17-3ec7-4724-84b3-6a211b626964}</Project>
+      <Name>txtLib</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
